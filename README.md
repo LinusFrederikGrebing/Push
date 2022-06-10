@@ -1,4 +1,4 @@
-# Push-game-java
+# Push
 Brettspiel - Push
 
 
